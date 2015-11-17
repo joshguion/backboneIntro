@@ -1,0 +1,20 @@
+body {
+  margin: 0;
+  padding: 0; }
+
+header {
+  border-bottom: 2px solid gray;
+  background: #FAFAFA;
+  margin-top: -2%; }
+
+h1 {
+  color: #2D3F9A;
+  margin-left: 5%;
+  padding-top: 2%; }
+
+.photo-input {
+  margin: 1% 0 0 1%; }
+
+.photoUrl, .caption {
+  width: 30%;
+  height: 20px; }
